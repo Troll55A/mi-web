@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+    margin:0;
+    padding:0;
+    }
+    #contenedor{
+    width:1200px;
+    height:1000px;
+    margin:0.5em auto;
+    padding:0.5em;
+    }
+    
+    #header{
+    height:15%;
+    background:#0F0;
+    margin:1em;
+    }
+    
+    #nav{
+    height:10%;
+    background:#39F;
+    border-radius:1em;
+    margin:1em;
+    }
+    
+    #contenido{
+    height:50%;
+    background:#F90;
+    margin:1em;
+    }
+    
+    #footer{
+    height:15%;
+    background:#93F;
+    margin:1em;
+    }
+    #section{
+    height:95%;
+    width:65%;
+    background:#0FF;
+    float:left;
+    margin:1em;
+    }
+    #aside{
+    height:95%;
+    width:25%;
+    background:#FF0;
+    border-radius:1em;
+    float:right;
+    margin:1em;
+    }
+    .articulo{
+    width:90%;
+    height:20%;
+    background:#933;
+    margin:1em;
+    border-radius:1em;
+    }
+    
